@@ -1,0 +1,19 @@
+District,Population,Area (km2),Density (/km2),Region
+Central and Western,"244,600",12.44,"19,983.92",Hong Kong Island
+Eastern,"574,500",18.56,"31,217.67",Hong Kong Island
+Southern,"269,200",38.85,"6,962.68",Hong Kong Island
+Wan Chai,"150,900",9.83,"15,300.10",Hong Kong Island
+Sham Shui Po,"390,600",9.35,"41,529.41",Kowloon
+Kowloon City,"405,400",10.02,"40,194.70",Kowloon
+Kwun Tong,"641,100",11.27,"56,779.05",Kowloon
+Wong Tai Sin,"426,200",9.3,"45,645.16",Kowloon
+Yau Tsim Mong,"318,100",6.99,"44,864.09",Kowloon
+Islands,"146,900",175.12,825.14,New Territories
+Kwai Tsing,"507,100",23.34,"21,503.86",New Territories
+North,"310,800",136.61,"2,220.19",New Territories
+Sai Kung,"448,600",129.65,"3,460.08",New Territories
+Sha Tin,"648,200",68.71,"9,433.85",New Territories
+Tai Po,"307,100",136.15,"2,220.35",New Territories
+Tsuen Wan,"303,600",61.71,"4,887.38",New Territories
+Tuen Mun,"495,900",82.89,"5,889.38",New Territories
+Yuen Long,"607,200",138.46,"4,297.99",New Territories
